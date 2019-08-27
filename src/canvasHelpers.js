@@ -7,7 +7,7 @@ let cycling = false
 let idx = 0
 let [sizeX, sizeY] = [95, 121]
 
-export function init() {
+export function init() { 
   
   def = document.createElement("img")
   const green = document.createElement("img")
